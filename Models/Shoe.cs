@@ -11,12 +11,5 @@ namespace ShoeStore.Models
     public string Description { get; set; }
     [Range(5, float.MaxValue)]
     public float Price { get; set; }
-
-    public Shoe(string name, string desc, float price)
-    {
-      Name = name;
-      Description = desc;
-      Price = price;
-    }
   }
 }
