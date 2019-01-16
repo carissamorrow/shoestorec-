@@ -1,0 +1,14 @@
+C:\Users\Chris\source\codeworks\shoestorec#\bin\Debug\netcoreapp2.2\shoestorec#.deps.json
+C:\Users\Chris\source\codeworks\shoestorec#\bin\Debug\netcoreapp2.2\shoestorec#.runtimeconfig.json
+C:\Users\Chris\source\codeworks\shoestorec#\bin\Debug\netcoreapp2.2\shoestorec#.runtimeconfig.dev.json
+C:\Users\Chris\source\codeworks\shoestorec#\bin\Debug\netcoreapp2.2\shoestorec#.dll
+C:\Users\Chris\source\codeworks\shoestorec#\bin\Debug\netcoreapp2.2\shoestorec#.pdb
+C:\Users\Chris\source\codeworks\shoestorec#\obj\Debug\netcoreapp2.2\shoestorec#.csprojAssemblyReference.cache
+C:\Users\Chris\source\codeworks\shoestorec#\obj\Debug\netcoreapp2.2\shoestorec#.csproj.CoreCompileInputs.cache
+C:\Users\Chris\source\codeworks\shoestorec#\obj\Debug\netcoreapp2.2\shoestorec#.RazorAssemblyInfo.cache
+C:\Users\Chris\source\codeworks\shoestorec#\obj\Debug\netcoreapp2.2\shoestorec#.RazorAssemblyInfo.cs
+C:\Users\Chris\source\codeworks\shoestorec#\obj\Debug\netcoreapp2.2\shoestorec#.AssemblyInfoInputs.cache
+C:\Users\Chris\source\codeworks\shoestorec#\obj\Debug\netcoreapp2.2\shoestorec#.AssemblyInfo.cs
+C:\Users\Chris\source\codeworks\shoestorec#\obj\Debug\netcoreapp2.2\shoestorec#.RazorTargetAssemblyInfo.cache
+C:\Users\Chris\source\codeworks\shoestorec#\obj\Debug\netcoreapp2.2\shoestorec#.dll
+C:\Users\Chris\source\codeworks\shoestorec#\obj\Debug\netcoreapp2.2\shoestorec#.pdb
